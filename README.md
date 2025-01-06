@@ -1,0 +1,1 @@
+This repository demonstrates a common SQL error involving the use of subqueries in the FROM clause. Some database systems do not support this syntax, leading to a syntax error.  The `bug.sql` file contains the erroneous code.  The `bugSolution.sql` file provides a corrected version using a JOIN, which is generally preferred and more efficient.
